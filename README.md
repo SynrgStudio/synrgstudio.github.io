@@ -1,2 +1,2 @@
 # synrgstudio.github.io
-[[Gym.md]]
+[Test](Gym.md)
